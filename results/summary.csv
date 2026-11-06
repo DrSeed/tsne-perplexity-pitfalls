@@ -1,0 +1,5 @@
+embedding,knn_preserved,wide_vs_tight_size_ratio,true_size_ratio,between_cluster_distance_rank_corr
+PCA (reference),0.126,6.21,6.04,1.0
+t-SNE perplexity 3,0.224,1.47,6.04,0.54
+t-SNE perplexity 30,0.283,2.99,6.04,0.94
+t-SNE perplexity 150,0.146,11.87,6.04,0.89
